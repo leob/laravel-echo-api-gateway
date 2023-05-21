@@ -1,5 +1,5 @@
 {
-    "name": "georgeboot/laravel-echo-api-gateway",
+    "name": "leob/laravel-echo-api-gateway",
     "description": "Use Laravel Echo with API Gateway Websockets",
     "keywords": [
         "laravel",
@@ -19,7 +19,7 @@
         }
     ],
     "require": {
-        "php": "^8.0",
+        "php": "^7.4",
         "ext-json": "*",
         "aws/aws-sdk-php": "^3.80",
         "bref/bref": "^1.1",
